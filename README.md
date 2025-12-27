@@ -4,6 +4,7 @@ This repository showcases all automation workflows I developed using n8n, includ
 
 This repo represents my journey into becoming an Automation Engineer — creating scalable, cloud-deployed systems that reduce manual work and give businesses superpowers 🚀
 
+
 📁 **What’s Inside**
 
 Project	Description	Tech
@@ -57,13 +58,18 @@ Ask: "How do I contact support?"
 Ask: "Is there a farmer loan feature?"
 
 
+
 🚀 **How to Use These Workflows**
 Import Steps
 
 1️⃣ Open your n8n instance
+
 2️⃣ Go to Workflows → Import from file
+
 3️⃣ Select .json workflow file from this repo
+
 4️⃣ Add your credentials (Google Sheets, Gmail, OpenAI, WhatsApp etc.)
+
 5️⃣ Activate workflow
 
 
