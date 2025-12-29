@@ -27,9 +27,13 @@ Instead of manually adding website URLs inside n8n,
 this automation reads website list from Google Sheet, including:
 
 ✔ Website URL
+
 ✔ Check Interval
+
 ✔ Expected Keyword / Regex Pattern
+
 ✔ Notification Email
+
 ✔ Custom Alert Message
 
 📌 Workflow Logic
@@ -45,8 +49,11 @@ Else:
 I built a Retrieval-Augmented Generation (RAG) Agent that:
 
 ✔ Reads website content (scraped / uploaded data)
+
 ✔ Stores chunks into a vector database
+
 ✔ Lets customers chat & ask questions
+
 ✔ Replies using context-aware AI
 
 Example Use-Cases:
